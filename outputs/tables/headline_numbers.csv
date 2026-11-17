@@ -1,0 +1,13 @@
+,value
+employers,11202.000
+corr_with_women_overall,0.105
+corr_with_top_vs_bottom,0.587
+r2_top_vs_bottom,0.344
+gap_pts_per_10pt_top_vs_bottom,5.747
+intercept,3.675
+employers_paying_bonuses_pct,76.486
+median_bonus_gap_among_payers,13.910
+median_mean_bonus_gap_among_payers,28.300
+panel_employers,4904.000
+panel_pct_narrowed_2017_2025,61.419
+panel_median_change_pts,-2.435
