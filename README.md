@@ -4,7 +4,7 @@
 
 Every UK employer with 250 or more staff must publish its gender pay gap each year. This project combines all **94,206 official reports from 15,725 employers (2017 to 2025)** into one clean dataset. It measures the trend fairly, compares sectors, and tests what explains an employer's gap. It comes with an interactive app where you can look up any employer and compare it with its sector and the UK.
 
-**▶ Interactive app:** *link added after deployment*
+**▶ Interactive app: [uk-gender-pay-gap.streamlit.app](https://uk-gender-pay-gap.streamlit.app/)**
 
 ## Results
 
