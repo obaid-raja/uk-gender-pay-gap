@@ -68,4 +68,4 @@ tests/
 People analytics questions come down to the same skills as any other analysis: combine messy yearly files correctly, compare like with like, and separate what the headline number shows from what is really driving it. I wanted a project on fully public, official UK data where the answer is useful to an HR team, not just interesting.
 
 ---
-Data: [GOV.UK Gender pay gap service](https://gender-pay-gap.service.gov.uk/), contains public sector information licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). Built by [Obaid Ullah Masood Raja](https://www.linkedin.com/in/obaidullah-masood-raja-225795218).
+Data: [GOV.UK Gender pay gap service](https://gender-pay-gap.service.gov.uk/), contains public sector information licensed under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). Built by [Obaid Ullah Masood Raja](https://www.linkedin.com/in/raja-obaid).
